@@ -1,0 +1,2 @@
+CREATE DATABASE superstore_project;
+USE superstore_project;

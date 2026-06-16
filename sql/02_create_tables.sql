@@ -1,0 +1,20 @@
+CREATE TABLE `superstore` (
+   `Row ID` int DEFAULT NULL,
+   `Order ID` text,
+   `Order Date` text,
+   `Ship Date` text,
+   `Ship Mode` text,
+   `Customer ID` text,
+   `Customer Name` text,
+   `Segment` text,
+   `Country` text,
+   `City` text,
+   `State` text,
+   `Postal Code` int DEFAULT NULL,
+   `Region` text,
+   `Product ID` text,
+   `Category` text,
+   `Sub-Category` text,
+   `Product Name` text,
+   `Sales` double DEFAULT NULL
+);
